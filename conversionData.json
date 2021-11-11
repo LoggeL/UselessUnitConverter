@@ -1,0 +1,138 @@
+{
+    "distance": {
+        "m": {
+            "name": "Meter",
+            "value": 1
+        },
+        "km": {
+            "name": "Kilometer",
+            "value": 1000
+        },
+        "mi": {
+            "name": "Mile",
+            "value": 1609.34
+        },
+        "yd": {
+            "name": "Yard",
+            "value": 0.9144
+        },
+        "ft": {
+            "name": "Foot",
+            "value": 0.3048
+        },
+        "mm": {
+            "name": "Millimeter",
+            "value": 0.001
+        },
+        "cm": {
+            "name": "Centimeter",
+            "value": 0.01
+        },
+        "in": {
+            "name": "Inch",
+            "value": 0.0254
+        }
+    },
+    "weight": {
+        "kg": {
+            "name": "Kilogram",
+            "value": 1
+        },
+        "g": {
+            "name": "Gram",
+            "value": 0.001
+        },
+        "mg": {
+            "name": "Milligram",
+            "value": 0.000001
+        },
+        "lb": {
+            "name": "Pound",
+            "value": 0.45359237
+        },
+        "oz": {
+            "name": "Ounce",
+            "value": 0.028349523125
+        }
+    },
+    "area": {
+        "m2": {
+            "name": "Square Meter",
+            "value": 1
+        },
+        "km2": {
+            "name": "Square Kilometer",
+            "value": 1000000
+        },
+        "ha": {
+            "name": "Hectare",
+            "value": 10000
+        },
+        "ac": {
+            "name": "Acre",
+            "value": 4046.8564224
+        },
+        "mi2": {
+            "name": "Square Mile",
+            "value": 2589990.988
+        },
+        "yd2": {
+            "name": "Square Yard",
+            "value": 0.83612736
+        },
+        "ft2": {
+            "name": "Square Foot",
+            "value": 0.09290304
+        },
+        "in2": {
+            "name": "Square Inch",
+            "value": 0.00064516
+        }
+    },
+    "volume": {
+        "m3": {
+            "name": "Cubic Meter",
+            "value": 1
+        },
+        "km3": {
+            "name": "Cubic Kilometer",
+            "value": 1000000000
+        },
+        "l": {
+            "name": "Liter",
+            "value": 0.001
+        },
+        "ml": {
+            "name": "Milliliter",
+            "value": 0.000001
+        },
+        "gal": {
+            "name": "Gallon",
+            "value": 0.00378541178
+        },
+        "qt": {
+            "name": "Quart",
+            "value": 0.0011365225
+        },
+        "pt": {
+            "name": "Pint",
+            "value": 0.00056826125
+        },
+        "c": {
+            "name": "Cup",
+            "value": 0.00023658823
+        },
+        "floz": {
+            "name": "Fluid Ounce",
+            "value": 0.00002957353
+        },
+        "tbsp": {
+            "name": "Tablespoon",
+            "value": 0.00001478676
+        },
+        "tsp": {
+            "name": "Teaspoon",
+            "value": 0.00000492892
+        }
+    }
+}
