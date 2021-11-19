@@ -1,6 +1,5 @@
 import tkinter as tk
 import json
-from tkinter.constants import DISABLED, FALSE
 
 # main
 def main():
