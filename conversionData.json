@@ -87,6 +87,10 @@
         "in2": {
             "name": "Square Inch",
             "value": 0.00064516
+        },
+        "mm2": {
+            "name": "Square Millimeter",
+            "value": 0.000001
         }
     },
     "volume": {
