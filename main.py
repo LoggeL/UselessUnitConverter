@@ -1,8 +1,6 @@
 import tkinter as tk
 import json
 
-# this is a test
-
 # main
 def main():
     # Load conversionData.json
